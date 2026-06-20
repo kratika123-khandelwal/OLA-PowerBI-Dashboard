@@ -20,3 +20,11 @@ worth ₹35.08M, covering revenue, cancellations, vehicle performance, and ratin
 - Power BI Desktop
 - DAX for calculated measures
 - Data modeling and Star Schema
+
+## Screenshots
+
+![Overall](Overall.png)
+![Revenue](Revenue.png)
+![Vehicle Type](Vehicletype.png)
+![Cancellation](Cancellation.png)
+![Ratings](Ratings.png)
